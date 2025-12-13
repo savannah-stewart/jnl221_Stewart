@@ -19,7 +19,7 @@ img {
 .header {
 	height: auto;
 	font-weight: bold;
-	font-size: 20px;
+	font-size: 50px;
 	text-align: center;
 	font-family: 'Georgia', serif;
 	background-color: #4E6151;
@@ -27,7 +27,7 @@ img {
 }
 h4 {
 	font-style: italic;
-	font-size: 20px;
+	font-size: 30px;
 	font-family: 'Georgia', serif;
 }
 h3 {
